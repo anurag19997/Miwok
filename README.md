@@ -1,2 +1,2 @@
 # Miwok
-Helps people learn Miwok Langiage
+Helps people learn Miwok Language
